@@ -1,0 +1,1 @@
+# plugins-onet-regenerate-thumbnails
